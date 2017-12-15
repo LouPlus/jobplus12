@@ -5,4 +5,3 @@ LouPlus Team 12 https://www.shiyanlou.com/louplus/python
 
 * [louplus](https://github.com/louplus)
 * [香酥比比鸟](https://github.com/Testzero)
-* [MaxProAim](https://github.com/MaxProAim)
